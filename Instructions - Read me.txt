@@ -1,0 +1,32 @@
+A python code to produce results on the MQTT lens application based on the button pressed on the  Dog breeds web application
+
+
+Steps to execute:
+
+1. Open the '298_1.py' file in the '298_1' folder
+
+2. Add the codes in the '298_1.py' file
+
+3. To run the' 298_1.py' file, open the command prompt in the file location.
+
+4. Activate the 'iot' environment as 'conda activate iot'
+
+5. Run the code as 'python 298_1.py'
+
+6. Copy the address and paste it into any browser
+
+7. The web application will be opened
+
+8. Now, click on the buttons to display the results
+
+9. Now, open the MQTT Lens Application
+
+10. Set the topic name in 'Subscribe' box as 'topicName/iot'
+
+11. Click on the 'Subscribe' button
+
+12. Based on the button pressed on the web application, a message will be displayed on the MQTT Lens Application.
+
+
+
+
